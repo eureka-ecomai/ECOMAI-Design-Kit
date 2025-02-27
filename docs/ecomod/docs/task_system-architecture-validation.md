@@ -1,52 +1,8 @@
 # ECOMOD Task: Validate System Architecture
 
-!!TODO!!
+![Logo](images/_under-construction_.jpg)
 
-
-## Description
-
-### Motivation
-
-!!TODO!!
-
-### What's To Do
-
-!!TODO!!
-
-#### Guiding Questions
-
-+ !!TODO!!
-
-### How To Do
-
-!!TODO!!
-
-#### Used Model Objects
-
-!!TODO!!
-+ Views: `UML UseCase Diagram`
-+ Elements: `UML UseCase`, `IoT-PML actor stereotypes`
-+ Relationships: `UML Association`, `UML Inclusion`
-
-
-### Next Steps
-
-!!TODO!!
-
-
-## Inputs
-
-!!TODO!!
-
-
-## Outputs
-
-!!TODO!!
-
-
-## Recommendations & Tips
-
-_None._
+### COMING SOON - STAY TUNED! ###
 
 
 ---

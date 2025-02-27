@@ -21,13 +21,13 @@ The **_ECOMOD Methods_** listed below are in a logical order according to the le
   + [Define System Context (_simple variant_)](method_system-context-simple.md)
   + [Define System Context](method_system-context.md)
 
-+ -TODO- [Specify System Use Cases](method_system-usecases.md)
++ [Specify System Use Cases](method_system-usecases.md)
 
-+ -TODO- [Specify System Processes](method_system-processes.md)
++ [Specify System Processes](method_system-processes.md)
 
-+ -TODO- [Specify Use Case Activities](method_system-usecases-activities.md)
++ [Specify Use Case Activities](method_system-usecases-activities.md)
 
-+ -TODO- [Describe Domain Data](method_domain-data-model.md)
++ [Describe Domain Data](method_domain-data-model.md)
 
 ---
 ### Context: System Architecture Model
@@ -35,44 +35,81 @@ The **_ECOMOD Methods_** listed below are in a logical order according to the le
 ![Methods System Architecture Modeling](images/en-ecomod-methods-system-architecture-modeling.png)
 
 
-+ -TODO- [Specify System/Actor Interactions](method_system-interactions.md)
++ [Specify System/Actor Interactions](method_system-interactions.md)
 
-+ -TODO- [Decide System Structure](method_system-architecture.md)
++ [Decide System Structure](method_system-architecture.md)
 
-+ -TODO- [Specify Architecture Scenarios](method_system-scenarios.md)
++ [Specify System Architecture Scenarios](method_system-scenarios.md)
 
-+ -TODO- [Validate Architecture with Scenarios](method_system-architecture-validation.md)
++ [Validate System Architecture with Scenarios](method_system-architecture-validation.md)
 
-+ -TODO- [Describe System Modes](method_system-modes.md)
++ [Describe System Modes](method_system-modes.md)
+
+
+---
+## Artificial Neural Network Level
+
+
+### Context: _Artificial Neural Network Requirements Process_
+
+![ECOMOD Artificial Neural Network Requirements](images/en-ecomod-process-ann-requirements.png)
+
+
++ Decide Neural Network Requirements
+
++ Decide Neural Network Type
+
++ Decide Learning Procedure
+
++ Define Structure of Learning Datasets
+
+
+---
+### Context: _Artificial Neural Network Architecture Process_
+
+![ECOMOD Artificial Neural Network Architecture](images/en-ecomod-process-ann-architecture.png)
+
+
++ Decide Neural Network Layer Structure
+
++ Describe Learning Procedure
+
++ Specify Neural Network Layers
+
++ Model Learning Dataset Objects
+
++ Validate Neural Network with Call Graph
 
 
 ---
 ## Software Level
 
+### Context: _Software Requirements Process_
 
-### Context: Software Requirements Model
+![ECOMOD Software Requirements](images/en-ecomod-process-software-requirements.png)
+
 
 + Describe Software Objectives
 
-+ Determine Software Constraints
-
-+ Determine Software Qualities
++ Determine Software Requirements
 
 + Identify Software Context
 
-+ Identify Software Use Cases
-
-+ Define Domain Objects
++ Specify Domain Objects
 
 
 ---
-### Context: Software Architecture Model
+### Context: _Software Architecture Process_
 
-+ Define Software Components
+![ECOMOD Software Architecture](images/en-ecomod-process-software-architecture.png)
 
-+ Define Software Interfaces
 
-+ Validate Software Components
++ Decide Software Structure
+
++ Specify Software Architecture Scenarios
+
++ Validate Software Architecture with Scenarios
+
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
