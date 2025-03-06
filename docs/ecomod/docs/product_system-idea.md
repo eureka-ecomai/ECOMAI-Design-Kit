@@ -1,5 +1,11 @@
 # ECOMOD Product: System Idea
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 The **_System Idea_** describes the core idea behind the system and lists the core feature of the system.
 
 

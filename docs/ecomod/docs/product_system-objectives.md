@@ -1,5 +1,11 @@
 # ECOMOD Product: System Objectives
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 The **_System Objectives_** lists the goals of the owner of the system. A goal is understood to be a desirable state that lies in the future and whose occurrence depends on certain actions or omissions, and therefore does not occur automatically.
 
 

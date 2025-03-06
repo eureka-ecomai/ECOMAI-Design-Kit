@@ -1,5 +1,11 @@
 # ECOMOD Task: Specify System Information Flows
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 Describe the relevant information flows between the actors and the system, along with the essential data and physical entities of the domain that are transported through them.
 
 

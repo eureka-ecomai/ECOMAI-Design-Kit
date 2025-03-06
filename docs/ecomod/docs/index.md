@@ -1,5 +1,13 @@
 # The ECOMOD Methodology
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+![QR-Code](images/ecomod_qr_contact-request_250x250.png) Contact Request (e-Mail)
+
+
 ## Preface
 
 _Please note, that currently the version 1 of the ECOMOD approach is available which only supports the modeling on System-Level._

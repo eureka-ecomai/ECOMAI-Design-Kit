@@ -1,5 +1,11 @@
 # ECOMOD Task: Determine System Qualities
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 Capture the quality criterias of the system.
 
 

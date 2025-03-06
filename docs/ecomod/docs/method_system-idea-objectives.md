@@ -1,5 +1,11 @@
 # ECOMOD Method: Model System Idea & Objectives
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 Describe the base idea and purpose of the system, and the goals of the system development in a short and readable form.
 
 ![Method Activities](images/en-ecomod-method-system-idea-objectives.png)

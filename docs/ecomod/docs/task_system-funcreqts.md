@@ -1,5 +1,11 @@
 # ECOMOD Task: Determine System Functionality
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 Capture the functional requirements of the system.
 
 

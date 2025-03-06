@@ -1,14 +1,33 @@
-# ECOMOD Task: Model System Architecture Decomposition
+# _Platform Screen Door Software (PSDS)_ - The Software Architecture Model
 
 
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
 
 ---
 
+## Software Structure
 
-![Logo](images/_under-construction_.jpg)
+![PSDS Software Architecture Structure](images/en-ecomod-example-00-software-architecture-definition-modelview.png)
 
-### COMING SOON - STAY TUNED! ###
+
+## Software Applications
+
+_Currently not available._
+
+
+## Software Components
+
+_Currently not available._
+
+
+## Software Drivers
+
+_Currently not available._
+
+
+## Software Data Model
+
+_Currently not available._
 
 
 ---

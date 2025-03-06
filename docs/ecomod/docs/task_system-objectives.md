@@ -1,5 +1,11 @@
 # ECOMOD Task: Model System Objectives
 
+
+_Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |
+
+---
+
+
 Capture the goals of the owner of the system.
 
 
