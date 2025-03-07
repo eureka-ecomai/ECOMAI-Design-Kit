@@ -1,0 +1,12 @@
+site_name: ECOMOD 1.5 Documentation
+
+nav:
+    - 'Introduction': index.md
+    - 'Processes': processes.md
+    - 'Methods': methods.md
+    - 'Products': products.md
+    - 'Examples': examples.md
+    - 'Quick Reference': quick-reference.md
+    - 'Glossary': glossary.md
+
+theme: mkdocs

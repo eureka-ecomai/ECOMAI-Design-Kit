@@ -46,7 +46,7 @@ Additionally this element can be depicted in the `Stakeholder Catalog` diagram.
 
 ### Next Steps
 
-Describe, from the perspective of the _Stakeholders_, all the functional and non-functional properties (quality criterias, constraints) that have to be satisfied by the system as [_Requirements_](product_requirements.md).
+Describe, from the perspective of the _Stakeholders_, all the functional and non-functional properties (quality criterias, constraints) that have to be satisfied by the system as [_Requirements_](product_system-requirements.md).
 
 
 ## Inputs
@@ -90,11 +90,11 @@ How to model the _Stakeholders_ in the Enterprise Architect tool:
 
 #### Stakeholders
 
-![Example of Stakeholders](images/en-ecomod-example-00-stakeholders-modelview.png)
+![Example of Stakeholders](images/en-ecomod-example-00-system-stakeholders-modelview.png)
 
 #### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-stakeholders-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-stakeholders-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

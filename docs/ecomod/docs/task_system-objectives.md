@@ -86,7 +86,7 @@ How to model the _System Objectives_ in the Enterprise Architect tool:
 
 #### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-objectives-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-objectives-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

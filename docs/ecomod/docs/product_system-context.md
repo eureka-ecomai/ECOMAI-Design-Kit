@@ -54,21 +54,21 @@ The communication links between the parts are pictured as **SysML Connector** re
 + This product is used as input by the methods:
   - [Specify System Use Cases](method_system-usecases.md)
   - [Specify System Processes](method_system-processes.md)
-  - [Describe Domain Information Items](method_system-domainentities.md)
+  - [Describe Domain Information Items](method_domain-data-model.md)
   - [Specify System/Actor Interactions](method_system-interactions.md)
   - [Decide System Interfaces](method_system-interfaces.md)
-  - [Decide System Structure](method_system-decomposition.md)
+  - [Decide System Structure](method_system-architecture.md)
 
 
 ## Examples
 
 #### System Context (View)
 
-![Example System Context (View)](images/en-ecomod-example-00-systemcontext-modelview.png)
+![Example System Context (View)](images/en-ecomod-example-00-system-context-modelview.png)
 
 #### System Context (Definition)
 
-![Example System Context (Definition)](images/en-ecomod-example-00-systemcontextdef-modelview.png)
+![Example System Context (Definition)](images/en-ecomod-example-00-system-context-definition-modelview.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

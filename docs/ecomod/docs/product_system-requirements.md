@@ -66,22 +66,27 @@ The linking between **_System Requirements_** and _System Objectives_ are pictur
   - [Specify System Processes](method_system-processes.md)
   - [Specify System/Actor Interactions](method_system-interactions.md)
   - [Decide System Interfaces](method_system-interfaces.md)
-  - [Decide System Structure](method_system-decomposition.md)
+  - [Decide System Structure](method_system-architecture.md)
 
 
 ## Examples
 
 #### Functional System Requirements
 
-![Example of Functional Requirements](images/en-ecomod-example-00-funcreqt-modelview.png)
+![Example of Functional Requirements](images/en-ecomod-sample-sysreqt-functional-independent-system-activity.png)
+![Example of Functional Requirements](images/en-ecomod-sample-sysreqt-functional-interface-interaction.png)
+![Example of Functional Requirements](images/en-ecomod-sample-sysreqt-functional-user-interaction.png)
 
 #### System Quality Requirements
 
-![Example of Quality Requirements](images/en-ecomod-example-00-qualities-modelview.png)
+![Example of Quality Requirements (FURPS+)](images/en-ecomod-sample-quality-furps-performance.png)
+![Example of Quality Requirements (FURPS+)](images/en-ecomod-sample-quality-iso9126-efficiency.png)
+![Example of Quality Requirements (FURPS+)](images/en-ecomod-sample-quality-iso25010-qop-performance-efficiency.png)
 
 #### System Constraints
 
-![Example of System Constraints](images/en-ecomod-example-00-constraints-modelview.png)
+![Example of System Constraints](images/en-ecomod-sample-constraint-technological.png)
+
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

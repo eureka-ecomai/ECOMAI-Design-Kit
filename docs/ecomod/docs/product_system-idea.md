@@ -39,9 +39,7 @@ The **_System Idea_** is a simply text stored in the property "_SystemIdea_" of 
   - [Model System Idea & Objectives](method_system-idea-objectives.md)
 
 + This product is used as input by the methods:
-  - [Model Stakeholder Requirements](method_stakeholder-requirements.md)
-  - [Model System Constraints](method_system-constraints.md)
-  - [Model System Qualities](method_system-qualitycriterias.md)
+  - [Model Stakeholder Requirements](method_system-requirements.md)
   - [Model System Use Cases](method_system-usecases.md)
   - [Model System Processes](method_system-processes.md)
 

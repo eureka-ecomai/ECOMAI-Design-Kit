@@ -48,7 +48,7 @@ In a later step, each requirement shall be assigned to a stakeholder by using th
 
 ### Next Steps
 
-The [_Stakeholders_](product_stakeholders.md) are the source of [_Requirements_](product_requirements.md), which represents the specific interests and needs of the stakeholders.
+The [_Stakeholders_](product_stakeholders.md) are the source of [_Requirements_](product_system-requirements.md), which represents the specific interests and needs of the stakeholders.
 
 
 ## Inputs

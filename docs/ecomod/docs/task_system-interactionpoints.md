@@ -38,7 +38,7 @@ For each identified _System Actor_ consider the associated _System Interaction P
 
 ## Inputs
 
-+ [System Context](products_system-context.md)
++ [System Context](product_system-context.md)
 
 
 ## Outputs

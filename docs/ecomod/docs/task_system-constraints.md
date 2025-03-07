@@ -85,11 +85,11 @@ How to model the _System Constraints_ in the Enterprise Architect tool:
 
 #### System Constraints
 
-![Example of System Constraints](images/en-ecomod-example-00-constraints-modelview.png)
+![Example of System Constraints](images/en-ecomod-example-00-system-constraints-modelview.png)
 
 #### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-sysreqt-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-constraints-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

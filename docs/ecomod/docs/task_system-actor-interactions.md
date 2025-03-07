@@ -66,11 +66,11 @@ How to model the _System Use Cases_ in the Enterprise Architect tool:
 
 ### System/Actor Interactions
 
-![Example of System/Actor Interactions](images/en-ecomod-example-00-systembehavior-modelview.png)
+![Example of System/Actor Interactions](images/en-ecomod-example-00-system-interactions-datacollection-ignoreddoorstate-basepath-modelview.png)
 
 ### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-systembehavior-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-interactions-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

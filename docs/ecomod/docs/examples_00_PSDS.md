@@ -16,14 +16,14 @@ _Please note, that the complete example project is available [here](models/ECOMO
 ## System Requirements Model
 
 + [System Objectives](examples-00-system-requirements-model.md#system-objectives)
-+ [Stakeholders](examples-00-system-requirements-model.md#stakeholders.md)
++ [Stakeholders](examples-00-system-requirements-model.md#stakeholders)
 + System Requirements:
   + [Functional System Requirements](examples-00-system-requirements-model.md#functional-system-requirements)
   + [System Qualities](examples-00-system-requirements-model.md#system-qualities)
   + [System Constraints](examples-00-system-requirements-model.md#system-constraints)
 + [System Context](examples-00-system-requirements-model.md#system-context)
-+ [System Use Cases](examples-00-system-requirements-model.md#system-use-cases.md)
-+ [Domain Information](examples-00-system-requirements-model.md#domain-information)
++ [System Use Cases](examples-00-system-requirements-model.md#system-use-cases)
++ [Domain Information](examples-00-system-requirements-model.md#domain-data-model)
 
 
 ## System Architecture Model

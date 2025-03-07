@@ -47,18 +47,15 @@ An _Use Case Activity_ is pictured as **ECOMOD stereotype «UCActivity»** or as
   - [Identify System Use Cases](method_system-usecases.md)
 
 + This product is used as input by the methods:
-  - [Verify Architecture with Scenarios](method_verify-architecture.md)
+  - [Verify Architecture with Scenarios](method_system-architecture-validation.md)
 
 
 ## Examples
 
 #### System Use Case Activity
 
-![Example for Use Case Activity](images/en-ecomod-example-usecaseactivities-modelview.png)
+![Example for Use Case Activity](images/en-ecomod-example-00-system-activities-collectdata-modelview.png)
 
-#### System Use Case Activity with Object Flows
-
-![Example for Use Case Activity with Object Flows](images/en-ecomod-example-usecaseobjectflows-modelview.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

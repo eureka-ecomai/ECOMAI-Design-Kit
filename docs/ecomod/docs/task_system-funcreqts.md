@@ -85,11 +85,11 @@ How to model the _Functional System Requirements_ in the Enterprise Architect to
 
 #### Functional System Requirements
 
-![Example of Functional System Requirements](images/en-ecomod-example-00-funcreqt-modelview.png)
+![Example of Functional System Requirements](images/en-ecomod-example-00-system-funcreqt-modelview.png)
 
 #### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-sysreqt-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-funcreqt-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

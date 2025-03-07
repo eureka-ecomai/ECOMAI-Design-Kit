@@ -86,11 +86,11 @@ How to model the _System Qualities_ in the Enterprise Architect tool:
 
 #### System Quality Requirements
 
-![Example of System Quality Requirements](images/en-ecomod-example-00-qualities-modelview.png)
+![Example of System Quality Requirements](images/en-ecomod-example-00-system-qualities-modelview.png)
 
 #### Model Content
 
-![Example of Model Content](images/en-ecomod-example-00-sysreqt-modelstructure.png)
+![Example of Model Content](images/en-ecomod-example-00-system-qualities-modelstructure.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

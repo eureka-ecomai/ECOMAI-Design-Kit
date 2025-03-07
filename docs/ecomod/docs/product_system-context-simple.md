@@ -51,17 +51,17 @@ Any kind of interaction between the system and an actor is expressed by a commun
 + This product is used as input by the methods:
   - [Specify System Use Cases](method_system-usecases.md)
   - [Specify System Processes](method_system-processes.md)
-  - [Describe Domain Information Items](method_system-domainentities.md)
+  - [Describe Domain Information Items](method_domain-data-model.md)
   - [Specify System/Actor Interactions](method_system-interactions.md)
   - [Decide System Interfaces](method_system-interfaces.md)
-  - [Decide System Structure](method_system-decomposition.md)
+  - [Decide System Structure](method_system-architecture.md)
 
 
 ## Examples
 
 #### System Context (simple variant)
 
-![Example System Context (simple)](images/en-ecomod-example-00-systemcontext-simple-modelview.png)
+![Example System Context (simple)](images/en-ecomod-example-00-system-context-simple-modelview.png)
 
 ---
 _Quick Navigation:_ | [Introduction](index.md) | [Processes](processes.md) | [Methods](methods.md) | [Products](products.md) | [Examples](examples.md) | [Reference](quick-reference.md) | [Glossary](glossary.md) |

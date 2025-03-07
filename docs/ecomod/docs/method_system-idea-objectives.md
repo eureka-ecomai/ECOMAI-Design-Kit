@@ -38,7 +38,7 @@ The [_System Idea_](product_system-idea.md) is stored in the system model as a t
 
 The [_System Objectives_](product_system-objectives.md) are depicted typically in a **SysML Requirements Diagram** and pictured with the **ECOMOD stereotype «Objective»**.
 
-In a later step, the [_Requirements_](product_requirements.md) should by linked to the [_System Objectives_](product_system-objectives.md) by a directed relationship in order to make it possible to understand which requirements support the achievement of which objective.
+In a later step, the [_Requirements_](product_system-requirements.md) should by linked to the [_System Objectives_](product_system-objectives.md) by a directed relationship in order to make it possible to understand which requirements support the achievement of which objective.
 Further, the [_Stakeholders_](product_stakeholders.md) should be linked to the [_System Objectives_](product_system-objectives.md) by a directed relationship in order to know which stakeholder is interested in (or supports) which objective.
 
 ### Next Steps

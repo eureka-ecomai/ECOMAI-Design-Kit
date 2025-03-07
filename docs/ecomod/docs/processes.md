@@ -78,7 +78,6 @@ _-none-_
 
 + [Identify Stakeholders](method_stakeholders.md)
 + [Describe System Idea & Objectives](method_system-idea-objectives.md)
-+ [Describe Base Architecture](method_base-architecture.md)
 + [Model Requirements](method_system-requirements.md)
 + [Identify System Context](method_system-context.md)
 + [Identify System Use Cases](method_system-usecases.md)
