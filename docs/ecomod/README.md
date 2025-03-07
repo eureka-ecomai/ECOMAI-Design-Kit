@@ -22,32 +22,34 @@ Note: Particular attention must be paid to this under Windows, because the Power
 
 On all supported systems (_Windows 8/10/11_, _Linux_, _macOS_) the prerequistes are
 
-+ .NET Runtime 8.x ([available downloads](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
-+ PowerShell 7.4 or higher ([available downloads](https://github.com/PowerShell/PowerShell/releases/latest))
++ latest version of **.NET Runtime 8.x** ([available downloads](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
++ latest version of **Microsoft PowerShell** ([available downloads](https://github.com/PowerShell/PowerShell/releases/latest))
 
 
 ### Installation on Windows systems using the setup application
 
-For the installation of the EDK on Windows systems there is a setup application available.
-Simply download the [latest release of the EDK setup application](https://github.com/eureka-ecomai/edktools/releases/download/v1.0.0.0/edk-installer-edktools.exe) from ECOMAI's GitHub space and run it to install all parts of the EDK (_please note that you need administrative privileges for a successful installation_).
+For the installation of the ECOMOD on Windows systems there is a setup application available.
+Simply download the [latest release of the ECOMOD setup application](https://github.com/eureka-ecomai/ECOMAI-Design-Kit/releases/download/ECOMOD-1.5.4/ecomod-installer-1.5.4.exe) from ECOMAI's GitHub space and run it to install all parts of the ECOMOD (_please note that you need administrative privileges for a successful installation_).
 
 __Important: Make sure that whether any Windows PowerShell nor any Microsoft PowerShell instance is running on your system before you start the setup!__
 
-__Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is *not* part of the setup application, you have to download and install them *before* you run the EDK setup application!__
+__Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is *not* part of the setup application, you have to download and install them *before* you run the ECOMOD setup application!__
 
-The EDK setup applications installs
+The ECOMOD setup applications installs
 
-+  the EDK-specific PowerShell commandlets in the subdirectory `edktools` below the PowerShell's module directory that is available for all user accounts on the computer (`C:\Program Files\PowerShell\Modules`)
++  the ECOMOD-specific PowerShell commandlets in the subdirectory `edktools` below the PowerShell's module directory that is available for all user accounts on the computer (`C:\Program Files\PowerShell\Modules`)
 
-+ all the resources needed by the EDK to the EDK's home folder (`C:\ProgramData\EDK`):
++ all the resources needed by the ECOMOD to the ECOMOD's home folder (`C:\ProgramData\ECOMOD`):
 
   + the EA template repository including all MDGs needed by ECOMAI model-based projects
 
-  + the EA model patterns needed by the ECOMOD MDG (subdir `ModelPatterns`)
+  + the EA model patterns needed by the ECOMOD MDG (subdir `model-patterns`)
+
+  + sample projects (subdir `examples`); note: **never** use those files directly, it's recommended copy these files to your preferred workspace
 
   + a ported variant of the GNU Cflow tool to be run under a 64-bit Windows OS (subdir `bin`)
 
-  + the sample data for the Callgraph feature (subdir `Examples\callgraph-sample-data`); note: do **not** use this data directly! It's recommended copy these data to your preferred workspace.
+  + the sample data for the Callgraph feature (subdir `examples\callgraph-sample-data`); note: **never** use these files directly, it's recommended copy these files to your preferred workspace
 
 
 ## Commands
