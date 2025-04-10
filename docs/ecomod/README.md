@@ -12,15 +12,14 @@ _Quick Navigation:_ | [Introduction](docs/index.md) | [Processes](docs/processes
 
 ## Installation
 
-The __edktools__ works on Windows, Linux and macOS (M1 and Intel).
-All platforms require at least [PowerShell 7.4 (or above)](https://learn.microsoft.com/de-de/powershell/) running.
+The **EDK Modeling Environment** works primarly on Windows and requires at least [PowerShell 7.4 (or above)](https://learn.microsoft.com/de-de/powershell/) running.
 
 Note: Particular attention must be paid to this under Windows, because the PowerShell edition that comes with Windows (the _Windows PowerShell_, up to version 5.1) is not sufficient.
 
 
 ### Minimum Requirements
 
-On all supported systems (_Windows 8/10/11_, _Linux_, _macOS_) the prerequistes are
+On the Windows 8/10/11 platform the prerequistes are
 
 + latest version of **.NET Runtime 8.x** ([available downloads](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
 + latest version of **Microsoft PowerShell** ([available downloads](https://github.com/PowerShell/PowerShell/releases/latest))
@@ -28,12 +27,12 @@ On all supported systems (_Windows 8/10/11_, _Linux_, _macOS_) the prerequistes 
 
 ### Installation on Windows systems using the setup application
 
-For the installation of the ECOMOD on Windows systems there is a setup application available.
-Simply download the [latest release of the ECOMOD setup application](https://github.com/eureka-ecomai/ECOMAI-Design-Kit/releases/download/ECOMOD-1.5.4/ecomod-installer-1.5.4.exe) from ECOMAI's GitHub space and run it to install all parts of the ECOMOD (_please note that you need administrative privileges for a successful installation_).
+For the installation of the **EDK Modeling Environment** on Windows systems there is a setup application available.
+Simply download the [latest release of the ECOMOD setup application](https://github.com/eureka-ecomai/ECOMAI-Design-Kit/releases/download/ECOMOD-1.5.4/ecomod-installer-1.5.4.exe) from ECOMAI's GitHub space and run it to install all parts of the **EDK Modeling Environment** (_please note that you need administrative privileges for a successful installation_).
 
-__Important: Make sure that whether any Windows PowerShell nor any Microsoft PowerShell instance is running on your system before you start the setup!__
+**Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is part of the setup application, you have to download and install them *before* you run the ECOMOD setup application!**
 
-__Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is *not* part of the setup application, you have to download and install them *before* you run the ECOMOD setup application!__
+**Important: Make sure that whether any Windows PowerShell nor any Microsoft PowerShell instance is running on your system before you start the setup!**
 
 The ECOMOD setup applications installs
 
@@ -73,7 +72,7 @@ PS C:\> cd  C:\Path\To\MyWorkspace
 
 PS C:\Path\To\MyWorkspace\> New-EdkRepos  MyFirstProject
 ```
-Creates a new EA repository file named '`MyFirstProject.qea`' in current working directory '`C:\Path\To\MyWorkspace`'.
+Creates a new EA repository file named `MyFirstProject.qea` in current working directory `C:\Path\To\MyWorkspace`.
 
 
 ### Generate a Callgraph
@@ -89,9 +88,14 @@ In addition to the things you do in the development process activity _Perform AI
 ```
 PS C:\> cd  C:\Path\To\MyWorkspace
 
-PS C:\Path\To\MyWorkspace\> New-EdkCallGraph  C:\Input\Path\flowgraph.ext  -Name callgraph
+PS C:\Path\To\MyWorkspace\> New-EdkCallGraph  inputfile.ext  -Name outputfile
 ```
-Converts the GNU formatted flowgraph in '`flowgraph.ext`', which is located in current working directory '`C:\Input\Path`', into a proper JSON structure and saves it as file named '`callgraph.json`' in the current working directory (here: '`C:\Path\To\MyWorkspace`').
+Converts the GNU formatted flowgraph in `inputfile.ext`, which is assumed to be located in the current working directory (here: `C:\Path\To\MyWorkspace`), into a proper JSON structure and saves it as file named `outputfile.json` in the current working directory (here: `C:\Path\To\MyWorkspace`).
+
+```
+PS C:\Any\Path\> New-EdkCallGraph  C:\Path\To\MyWorkspace\inputfile.ext  -Name outputfile
+```
+Converts the GNU formatted flowgraph in `inputfile.ext`, which is located in directory `C:\Path\To\MyWorkspace`, into a proper JSON structure and saves it as file named `outputfile.json` in the **current working directory** (here: `C:\Any\Path`).
 
 
 ## Example Data
