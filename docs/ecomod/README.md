@@ -33,9 +33,9 @@ On the Windows platform the prerequistes are
 For the installation of the **EDK Modeling Environment** on Windows systems there is a setup application available.
 Simply download the [latest release of the ECOMOD setup application](https://github.com/eureka-ecomai/edktools/releases/latest) from ECOMAI's GitHub space and run it to install all parts of the **EDK Modeling Environment** (_please note that you need administrative privileges for a successful installation_).
 
-**Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is part of the setup application, you have to download and install them *before* you run the ECOMOD setup application!**
+Please note that whether the *.NET Runtime 8.x* nor the *PowerShell* is part of the setup application, you have to download and install them *before* you run the ECOMOD setup application!
 
-**Important: Make sure that whether any Windows PowerShell nor any Microsoft PowerShell instance is running on your system before you start the setup!**
+**Important:** Make sure that whether any Windows PowerShell nor any Microsoft PowerShell instance is running on your system before you start the setup!
 
 The ECOMOD setup applications installs
 
